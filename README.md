@@ -1,5 +1,7 @@
 # Frontend
 
+> This repo is part of this blog: https://blog.cloudglance.dev/trpc-separate-backend-frontend-with-openapi-aws-lambda-cdk/index.html
+
 This project is used to demo the usage of the SDK API NPM packaged that is published by the backend project here:
 [https://github.com/rehanvdm/pets-backend-v2](https://github.com/rehanvdm/pets-backend-v2). It is a basic Vue app
 powered by Vite that uses the API SDK package in the `/views/HomeView.vue` file.
